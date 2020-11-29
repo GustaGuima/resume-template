@@ -5,10 +5,11 @@
 - project: Plataforma de Auxilio em Logica de Programação
   duration: 2020 &mdash; 2020
   # url: "#"
-  description: Desenvolvimento de uma plataforma gamificada para auxiliar no aprendizado de Logica de Programação. A plataforma foi desenvolvida em Node.js e no front-end React.
+  description: Desenvolvimento de uma plataforma gamificada para auxiliar no aprendizado de Lógica de Programação. A plataforma foi desenvolvida em Node.js e no front-end React.
 
 
 - project: Integração Externa em Firebird
   duration: 2020 &mdash; 2020
   # url: "#"
   description: Desenvolvimento de uma API de integração do banco Firebird com Webservice.
+
